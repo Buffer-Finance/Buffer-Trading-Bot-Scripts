@@ -1,4 +1,4 @@
-# buffer-demo
+# Buffer-Trading-Bot-Scripts
 
 To install dependencies:
 
